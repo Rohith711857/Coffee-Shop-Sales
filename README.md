@@ -9,7 +9,7 @@ This project analyzes coffee shop sales data to uncover insights about customer 
 - **Average Bill per Person**
 - **Category Sales Percentage**
 
-- ## Insights
+ ## Insights
 The analysis reveals:
 1. **Customer Preferences**: Coffee and bakery items are key drivers of revenue, with Barista Espresso being a standout product.  
 2. **Time-based Opportunities**: Focus marketing efforts on peak morning hours to maximize sales.  
