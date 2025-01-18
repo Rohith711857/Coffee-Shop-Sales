@@ -12,7 +12,7 @@ This project analyzes coffee shop sales data to uncover insights about customer 
  ## Insights
 The analysis reveals:
 1. **Customer Preferences**: Coffee and bakery items are key drivers of revenue, with Barista Espresso being a standout product.  
-2. **Time-based Opportunities**: Focus marketing efforts on peak morning hours to maximize sales.  
+2. **Time-based Opportunities**: Focus marketing efforts on peak morning hours as peak sales occur between 8 AM and 11 AM.  
 3. **Store Potential**: Hell's Kitchen performs best, suggesting strategies to replicate its success in other locations.
 
 ## Tools Used
