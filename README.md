@@ -21,6 +21,8 @@ The analysis reveals:
 ## Dashboard Snapshot
 ![Dashboard Preview](Dashboard%20Preview.png)
 
+## File Structure
+```plaintext
 coffee-shop-analysis/
 ├── Coffee Shop Sales Analysis.xlsx # Excel file containing the dashboard
 ├── Dashboard Preview.png           # Snapshot of the dashboard
