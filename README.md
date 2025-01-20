@@ -22,6 +22,6 @@ The analysis reveals:
 ![Dashboard Preview](Dashboard%20Preview.png)
 
 coffee-shop-analysis/
-├── Zepto Sales Analysis.pbix       # Power BI file containing the dashboard
+├── Coffee Shop Sales Analysis.xlsx # Excel file containing the dashboard
 ├── Dashboard Preview.png           # Snapshot of the dashboard
 ├── README.md                       # Project overview
